@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "TestJhipster",
+    "packageName": "io.com",
+    "packageFolder": "io/com",
+    "serverPort": 8089,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "NGViYmI0MTcxMzA3ODNiNzY2MzMzNWE1YjUzMTQ5YTc3Nzk3NzAxNjY0MzY5NmU4ZjY0MGJlYjg4YTllMTNhYzNhMTk5ZjY1YWM3NDQwNDVmZmJlMTNjNDY1NDc5YjBlODY0MjFkMzNjZTA1MmRiMjc4NGQ5YjMxOTlmYTI2OTE=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "moussandiaye",
+  "repository-name": "tester"
+}
